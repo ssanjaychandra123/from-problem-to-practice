@@ -1,25 +1,71 @@
-![From Problem to Practice](images/series.png)
-
 # From Problem to Practice
 
-Thinking clearly, working well, and understanding what happens at work.
+<p align="center">
+  <img src="images/series.png" alt="From Problem to Practice" width="100%">
+</p>
 
-| | Book | What's inside | Read |
-|---|---|---|---|
-| ![](images/framework-thinking.png) | **Framework Thinking** | 39 thinking tools in 7 stages, from naming the problem to making the change stick. 34 pages. | Coming soon |
-| ![](images/kaizen-practice.png) | **Kaizen Practice** | 78 working routines in 8 parts. Each one is a problem you see at work and the routine that stops it coming back. 53 pages. | Coming soon |
-| ![](images/hidden-logic.png) | **Hidden Logic** | 76 patterns in 8 parts and 45 scenarios. What usually happens at work, why, and what to do. 90 pages. | Coming soon |
+Three books on thinking clearly, working well, and understanding what happens at work.
 
-## Where to start
+Each one starts from a problem you have already seen at work, then gives you the tool, the routine or the reason behind it.
 
-Facing a problem you need to think through? Start with Framework Thinking.
+For anyone who works through problems, leads people, or is finding their way at work.
 
-Running a team and the same issues keep coming back? Kaizen Practice.
+> **One home for the whole series.** All three books live here, and updates will land here first.
 
-Something at work doesn't add up? Hidden Logic.
+---
 
-## Author
+## Framework Thinking
 
-Sanjay Chandra
+39 thinking tools in 7 stages, from naming the problem to making the change stick.
+
+<p align="center">
+  <img src="images/framework-thinking.png" alt="Framework Thinking" width="420">
+</p>
+
+| Title | Download |
+|---|---|
+| Framework Thinking | Coming soon |
+
+---
+
+## Kaizen Practice
+
+78 working routines in 8 parts. Each one is a problem you see at work and the routine that stops it coming back.
+
+<p align="center">
+  <img src="images/kaizen-practice.png" alt="Kaizen Practice" width="420">
+</p>
+
+| Title | Download |
+|---|---|
+| Kaizen Practice | Coming soon |
+
+---
+
+## Hidden Logic
+
+76 patterns and 45 scenarios. What usually happens at work, why, and what to do.
+
+<p align="center">
+  <img src="images/hidden-logic.png" alt="Hidden Logic" width="420">
+</p>
+
+| Title | Download |
+|---|---|
+| Hidden Logic | Coming soon |
+
+---
+
+Found a gap, or something that doesn't match what happens where you work? Open an issue.
+
+---
+
+Compiled with Claude by Anthropic and reviewed by Sanjay Chandra.
+
+---
+
+Sanjay Chandra, Global CoE Community.
+
+---
 
 [LinkedIn](https://www.linkedin.com/in/ssanjaychandra) · [Website](https://www.ssanjaychandra.com)
