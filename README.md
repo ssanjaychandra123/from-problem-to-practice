@@ -10,7 +10,7 @@ Each one starts from a problem you have already seen at work, then gives you the
 
 For anyone who works through problems, leads people, or is finding their way at work.
 
-> **One home for the whole series.** All three books live here, and updates will land here first.
+> **One home for the whole series.** All three books live here and updates will land here first.
 
 ---
 
@@ -24,7 +24,7 @@ For anyone who works through problems, leads people, or is finding their way at 
 
 | Title | Download |
 |---|---|
-| Framework Thinking | Coming soon |
+| Framework Thinking | [Download PDF](books/Framework%20Thinking%20by%20Sanjay%20Chandra.pdf) |
 
 ---
 
@@ -38,7 +38,7 @@ For anyone who works through problems, leads people, or is finding their way at 
 
 | Title | Download |
 |---|---|
-| Kaizen Practice | Coming soon |
+| Kaizen Practice | [Download PDF](books/Kaizen%20Practice%20by%20Sanjay%20Chandra.pdf) |
 
 ---
 
@@ -52,7 +52,7 @@ For anyone who works through problems, leads people, or is finding their way at 
 
 | Title | Download |
 |---|---|
-| Hidden Logic | Coming soon |
+| Hidden Logic | [Download PDF](books/Hidden%20Logic%20by%20Sanjay%20Chandra.pdf) |
 
 ---
 
